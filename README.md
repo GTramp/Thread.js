@@ -2,6 +2,12 @@
 javascript web worker
 
 ```bash
+npm install thread_worker.js --save
+
+import thread from 'thread_worker.js'
+```
+
+```bash
 // demo ========
 thread.async (() => {
   let j = 0
