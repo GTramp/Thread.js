@@ -1,0 +1,30 @@
+{
+  "name": "thread-worker.js",
+  "version": "1.0.0",
+  "description": "web worker",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSunset/Thread.git"
+  },
+  "keywords": [
+    "web",
+    "woker",
+    "js",
+    "script",
+    "async",
+    "javascript"
+  ],
+  "author": "wg_workshop@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iSunset/Thread/issues"
+  },
+  "homepage": "https://github.com/iSunset/Thread#readme"
+}
