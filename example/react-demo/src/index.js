@@ -8,6 +8,7 @@ import thread from './thread'
 ReactDOM.render(<App/>, document.getElementById('root'));
 registerServiceWorker();
 
+// demo ========
 thread.async (() => {
   let j = 0
   for (let i = 0; i < 10; i++) {
