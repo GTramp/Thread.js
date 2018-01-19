@@ -2,9 +2,9 @@
 javascript web worker
 
 ```bash
-npm install thread_worker.js --save
+npm install thread-worker.js --save
 
-import thread from 'thread_worker.js'
+import thread from 'thread-worker.js'
 ```
 
 ```bash
